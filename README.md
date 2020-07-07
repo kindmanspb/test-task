@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Тестовое задание
+
+По ссылке ниже можно запустить стенд.
+
+[Демо страница](https://kindmanspb.github.io/test-task)
+
+Для сборки на локали стандартные CRA скрипты
+
+Параметры серого блока лежат в корне проекта в файле `index.tsx`
+
+Параметры инициализации Redux лежат в директории `src/store/reducers/objects-reducer` в файле `objects-reducer.ts`
+
 ## Available Scripts
 
 In the project directory, you can run:

@@ -11,8 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="668bd610-210d-4271-a2b6-ce40097f32c8" name="Default Changelist" comment="123">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +30,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="HEAD~2" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="123" />
+        <option name="rewordedMessage" value="test-task initialize" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="2aab0aa31c7f62a4a990e6a0c51f0e5ec5a44cd1" />
   </component>
   <component name="ProjectId" id="1eBQQeBuyshEzFtVXB7ywq9lTFt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,8 +77,18 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.eject">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -89,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.eject" />
       </list>
     </recent_temporary>
@@ -205,25 +230,29 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="257" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1440.900@0.0.1440.900" timestamp="1594055859172" />
-    <state width="1417" height="245" key="GridCell.Tab.0.bottom" timestamp="1594121610596">
+    <state x="219" y="139" key="Git.Interactive.Rebase.Dialog" timestamp="1594135705709">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1417" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594121610596" />
+    <state x="219" y="139" key="Git.Interactive.Rebase.Dialog/0.0.1440.900@0.0.1440.900" timestamp="1594135705709" />
+    <state width="708" height="245" key="GridCell.Tab.0.bottom" timestamp="1594135981075">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="708" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594135981075" />
     <state width="1417" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1594033211189" />
-    <state width="1417" height="245" key="GridCell.Tab.0.center" timestamp="1594121610594">
+    <state width="708" height="245" key="GridCell.Tab.0.center" timestamp="1594135981075">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1417" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594121610594" />
+    <state width="708" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594135981075" />
     <state width="1417" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1594033211188" />
-    <state width="1417" height="245" key="GridCell.Tab.0.left" timestamp="1594121610594">
+    <state width="708" height="245" key="GridCell.Tab.0.left" timestamp="1594135981074">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1417" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594121610594" />
+    <state width="708" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594135981074" />
     <state width="1417" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1594033211188" />
-    <state width="1417" height="245" key="GridCell.Tab.0.right" timestamp="1594121610595">
+    <state width="708" height="245" key="GridCell.Tab.0.right" timestamp="1594135981075">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1417" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594121610595" />
+    <state width="708" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594135981075" />
     <state width="1417" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1594033211188" />
     <state width="1417" height="303" key="GridCell.Tab.1.bottom" timestamp="1594120292057">
       <screen x="0" y="0" width="1440" height="900" />
@@ -285,13 +314,17 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="417" y="193" width="606" height="514" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1594119959414" />
+    <state x="507" y="306" key="git4idea.rebase.GitRebaseDialog" timestamp="1594135757510">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="306" key="git4idea.rebase.GitRebaseDialog/0.0.1440.900@0.0.1440.900" timestamp="1594135757510" />
     <state x="384" y="209" key="run.anything.popup" timestamp="1593793229788">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="384" y="209" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1593793229788" />
-    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1594114022256">
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1594135843105">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1594114022256" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1594135843105" />
   </component>
 </project>
