@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Тестовое задание
+Проверка триггера
 
 По ссылке ниже можно запустить стенд.
 
